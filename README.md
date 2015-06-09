@@ -1,4 +1,4 @@
-# Meetings are Expensive v0.1
+# Meetings are Expensive
 1. All meetings are optional.
 
 2. A meeting must always have an agenda.
