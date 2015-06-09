@@ -1,5 +1,7 @@
 # Meetings are Expensive
 
+![alt text](http://i57.tinypic.com/2u7sx89.jpg "CV Meetings")
+
 1. All meetings are optional.
 
 2. A meeting must always have an agenda.
